@@ -7,21 +7,21 @@ This project analyzes the sentiment of 1 million tweets related to demonetizatio
 
 ## Key Contributions
 
-Led a team to analyze sentiment in over 1 million tweets, demonstrating leadership and collaboration.
+- Led a team to analyze sentiment in over 1 million tweets, demonstrating leadership and collaboration.
 
-Optimized data processing workflows, reducing processing time by 50% using Python and PySpark.
+- Optimized data processing workflows, reducing processing time by 50% using Python and PySpark.
 
-Extracted key insights on public sentiment shifts regarding demonetization policies.
+- Extracted key insights on public sentiment shifts regarding demonetization policies.
 
-Developed scalable and efficient algorithms to handle massive datasets.
+- Developed scalable and efficient algorithms to handle massive datasets.
 
 ## Technologies Used
 
-Python, PySpark, Hadoop – For large-scale data processing and distributed computing.
+- Python, PySpark, Hadoop – For large-scale data processing and distributed computing.
 
-Natural Language Processing (NLP) – Used libraries like NLTK and TextBlob for sentiment classification.
+- Natural Language Processing (NLP) – Used libraries like NLTK and TextBlob for sentiment classification.
 
-Data Visualization – Used Matplotlib and Seaborn to present trends and insights.
+- Data Visualization – Used Matplotlib and Seaborn to present trends and insights.
 
 ## Results & Insights
 
